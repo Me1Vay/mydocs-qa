@@ -1,0 +1,10 @@
+.venv/
+.env
+__pycache__/
+data/_upload.txt
+.streamlit/
+*.pyc
+*.log
+
+# 跟课练习：不进公开仓库（本地文件保留，方便继续学）
+practice/heima/
